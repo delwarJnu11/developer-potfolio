@@ -65,7 +65,7 @@ a.link-btn {
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 0 20px;
+    padding: 0 10px 0 20px;
     box-shadow: 10px 10px 40px gray;
 }
 
@@ -84,4 +84,5 @@ a.link-btn {
 .footer-text{
     text-align: center;
     font-size: 18px;
+    font-weight: 300;
 }
