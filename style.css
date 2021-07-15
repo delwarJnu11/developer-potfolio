@@ -21,7 +21,7 @@ body{
     font-size: 50px;
 }
 
-.colorful-title {
+.greeting-text-color, .colorful-title {
     color: orange;
 }
 
@@ -106,18 +106,20 @@ a.link-btn {
     }
     .link-btn{
         width: 50%;
+        margin-left: 15px;
     }
     .greeting-text{
-        font-size: 24px;
-        line-height: 36px;
+        font-size: 28px;
+        line-height: 42px;
     }
     .sub-title{
-        font-size: 22px;
+        font-size: 17px;
         padding: 10px;
         line-height: 30px;
     }
     .description{
         padding: 10px;
+        font-size: 13px;
     }
     .half-width img{
         max-width: 100%;
@@ -129,7 +131,7 @@ a.link-btn {
         width: 50%;
         font-size: 24px;
         line-height: 36px;
-        padding: 10px;
+        margin-left: 15px;
     }
     .experience-item{
         width: 90%;
@@ -137,13 +139,13 @@ a.link-btn {
         margin: 10px;
     }
     .experience-item-title{
-        font-size: 24px;
+        font-size: 19px;
         padding: 10px;
-        line-height: 36px;
+        line-height: 40px;
         
     }
     .colorful-title{
-        font-size: 22px;
+        font-size: 18px;
         padding: 10px;
         line-height: 30px;
     }
