@@ -35,7 +35,7 @@ a.link-btn {
     background-image: linear-gradient(orange, tomato);
     padding: 2% 8%;
     color: white;
-    border-radius: 4%;
+    border-radius: 10px;
 }
 
 .half-width img {
@@ -106,7 +106,7 @@ a.link-btn {
     }
     .link-btn{
         width: 50%;
-        margin-left: 15px;
+        margin-left: 10px;
     }
     .greeting-text{
         font-size: 28px;
@@ -139,7 +139,7 @@ a.link-btn {
         margin: 10px;
     }
     .experience-item-title{
-        font-size: 19px;
+        font-size: 18px;
         padding: 10px;
         line-height: 40px;
         
