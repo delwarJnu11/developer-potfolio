@@ -86,3 +86,73 @@ a.link-btn {
     font-size: 18px;
     font-weight: 300;
 }
+
+/* Midea Queries */
+@media only screen and (max-width:688px) {
+    .top-banner, .dream-big{
+        width: 90%;
+    }
+    .flexible-container{
+        width: 90%;
+        padding: 15px;
+        display: grid;
+        grid-template-columns: 1fr;
+        margin: 0 auto;
+    }
+    .half-width{
+        width: 90%;
+        padding: 10px;
+        margin: 10px;
+    }
+    .link-btn{
+        width: 50%;
+    }
+    .greeting-text{
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .sub-title{
+        font-size: 22px;
+        padding: 10px;
+        line-height: 30px;
+    }
+    .description{
+        padding: 10px;
+    }
+    .half-width img{
+        max-width: 100%;
+    }
+    .experience-area{
+        width: 90%;
+    }
+    .experience-title{
+        width: 50%;
+        font-size: 24px;
+        line-height: 36px;
+        padding: 10px;
+    }
+    .experience-item{
+        width: 90%;
+        overflow: hidden;
+        margin: 10px;
+    }
+    .experience-item-title{
+        font-size: 24px;
+        padding: 10px;
+        line-height: 36px;
+        
+    }
+    .colorful-title{
+        font-size: 22px;
+        padding: 10px;
+        line-height: 30px;
+    }
+    footer{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .footer-text{
+        font-size: 16px;
+        text-align: center;
+    }
+}
